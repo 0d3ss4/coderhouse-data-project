@@ -1,7 +1,7 @@
 # PowerBI NY Supermarket Sales Analysis
 
 ## Author
-Gabriela Faúndez Navarro  
+GabyDotDev 
 Data Analyst | Power BI | Data Analytics  
 CoderHouse – Data Analytics (Commission 89485)  
 March 2026  
