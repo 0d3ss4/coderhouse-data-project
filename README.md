@@ -101,8 +101,3 @@ README.md
 Data Analysis, Power BI, Dashboard, Data Visualization, Business Intelligence, KPI, Data Analytics, Reporting, Insights
 
 ---
-
-## Contact
-
-Email: ga.faundezn@gmail.com  
-GitHub: https://github.com/gabrieladotdev  
