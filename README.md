@@ -1,7 +1,8 @@
 # PowerBI NY Supermarket Sales Analysis
 
 ## Author
-Github 0d3ss4 
+Github 0d3ss4
+
 Data Analyst | Power BI | Data Analytics  
 CoderHouse – Data Analytics (Commission 89485)  
 March 2026  
